@@ -8,6 +8,12 @@
 
 This project involves analyzing a dataset to uncover relationships between lifestyle factors, demographic characteristics, and the risk of depression.The goal is to identify patterns that could help in understanding and mitigating the factors contributing to depression.
 
+### Dashboard
+![Report](https://github.com/user-attachments/assets/3bd72f9d-c57c-4472-87b7-f5d48c42215c)
+
+![Report1](https://github.com/user-attachments/assets/42987d6b-d3ee-4249-ae14-bf0b264d2aef)
+
+
 ### Data Source
 
 The dataset used in this project was sourced from Kaggle and contains  data related to individual demographics, lifestyle choices, and mental health indicators. It includes variables such as age, marital status, employment status, smoking status, alcohol consumption, physical activity, dietary habits, and medical history, all of which were analyzed to explore their relationship with depression risk.
